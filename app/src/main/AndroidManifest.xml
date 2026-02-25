@@ -27,6 +27,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PanelControlActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEntregaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ConfirmacionEntregaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MotivoRechazoActivity"
+            android:exported="false" />
     </application>
 
 </manifest>
