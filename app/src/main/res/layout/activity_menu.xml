@@ -24,10 +24,5 @@
         android:layout_gravity="start"
         android:background="@color/white"
         android:fitsSystemWindows="true"
-        app:headerLayout=""
-        app:itemBackground=""
-        app:itemIconTint=""
-        app:itemTextAppearance="@color/white"
-        app:itemTextColor=""
-        app:menu=""/>
+        app:menu="@menu/nav_menu"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
